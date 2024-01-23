@@ -7,7 +7,7 @@
     >
     <img 
       width="256px"
-      src="assets/revanced-headline/revanced-headline-vertical-light.svg"
+      src="assets/revanced-headline/revanced-headline-verticaal-light.svg"
     >
   </picture>
   <br>
